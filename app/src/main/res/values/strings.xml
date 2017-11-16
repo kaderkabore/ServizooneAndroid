@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Servizoone</string>
+
+    <string name="activity_login">Giriş Yap</string>
+    <string name="activity_main">Servizoone</string>
+    <string name="activity_profile">Profilim</string>
+    <string name="activity_taleplerim">Taleplerim</string>
+    <string name="activity_talep_olusur">Yeni Talep</string>
+    <string name="activity_servis_bilgilerim">Servis Bilgilerim</string>
+
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Şifre (İsteğe Bağlı)</string>
+    <string name="action_sign_in">Giriş Yap</string>
+    <string name="action_sign_in_short">Giriş Yap</string>
+    <string name="error_invalid_email">Bu Email Adresi Geçersiz</string>
+    <string name="error_invalid_password">Bu Şifre Çok Kısa</string>
+    <string name="error_incorrect_password">Bu Şifre Yanlış</string>
+    <string name="error_field_required">Bu Alan Gereklidir</string>
+    <string name="permission_rationale">"Email Tamlamaları İçin Kişi İzinleri Gereklidir."</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_servisim_nerede">Servisim Nerede</string>
+    <string name="title_activity_avt__notification">Bildirimlerim</string>
+    <string name="title_activity_avt__routes">Güzergahlar</string>
+    <string name="title_activity_avt__route_detail">Güzergahlar</string>
+    <string name="title_activity_avt__my_route">Güzergahlar</string>
+    <string name="title_activity_avt__complaint_detail">Taleplerim</string>
+    <string name="title_activity_avt_version">Versiyon</string>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_profil"
+            android:icon="@drawable/ic_profile"
+            android:title="Profilim" />
+        <item
+            android:id="@+id/drawer_servis_bilgileri"
+            android:icon="@drawable/ic_servisbilgilerim"
+            android:title="Servis Bilgilerim" />
+        <item
+            android:id="@+id/drawer_servisim_nerede"
+            android:icon="@drawable/ic_servisnerede"
+            android:title="Servisim Nerede" />
+        <item
+            android:id="@+id/drawer_bildirimlerim"
+            android:icon="@drawable/ic_notification"
+            android:title="Bildirimlerim" />
+        <item
+            android:id="@+id/drawer_taleplerim"
+            android:icon="@drawable/ic_taleperim"
+            android:title="Taleplerim" />
+        <item
+            android:id="@+id/drawer_guzergahlar"
+            android:icon="@drawable/guzergalar"
+            android:title="Güzergahlar" />
+        <item
+            android:id="@+id/drawer_cikis"
+            android:icon="@drawable/ic_exit"
+            android:title="Çıkış" />
+        <item
+            android:id="@+id/drawer_versiyon"
+            android:icon="@drawable/ic_version"
+            android:title="Versiyon" />
+
+    </group>
+    <!--<item android:title="Diğer">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/drawer_cikis"-->
+                <!--android:icon="@drawable/drawer_cikis"-->
+                <!--android:title="Çıkış" />-->
+            <!--<item-->
+                <!--android:id="@+id/drawer_versiyon"-->
+                <!--android:icon="@drawable/drawer_versiyon"-->
+                <!--android:title="Versiyon" />-->
+        <!--</menu>-->
+    <!--</item>-->
+    <!--
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+    -->
+</menu>
